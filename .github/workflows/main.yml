@@ -1,33 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@mr-wuguang 
-mr-wuguang
-/
-Padavan-build
-forked from chongshengB/Padavan-build
-0
-14.5k
-Code
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-Padavan-build/.github/workflows/build-padavan.yml
-@mr-wuguang
-mr-wuguang Update build-padavan.yml
-Latest commit 9a5bd5d yesterday
- History
- 2 contributors
-@chongshengB@mr-wuguang
-106 lines (103 sloc)  6 KB
+
   
 #修改TNAME: K2P-5.0 中的K2P-5.0为你需要编译的型号，注意名称要与configs/templates/目录下的名字相同
 name: Build Padavan
