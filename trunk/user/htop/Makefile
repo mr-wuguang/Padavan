@@ -1,5 +1,5 @@
-SRC_NAME = htop-2.2.0
-SRC_URL = https://github.com/chongshengB/rt-n56u/blob/master/trunk/user/htop/htop-2.2.0.tar.gz
+SRC_NAME = htop-3.0.2
+SRC_URL = https://launchpadlibrarian.net/497638949/htop_3.0.2.orig.tar.gz
 THISDIR = $(shell pwd)
 
 all: download_test extract_test config_test
